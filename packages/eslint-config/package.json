@@ -1,0 +1,10 @@
+{
+  "name": "@doro-ui/eslint-config",
+  "license": "MIT",
+  "private": true,
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "@rocketseat/eslint-config": "^1.1.3"
+  }
+}

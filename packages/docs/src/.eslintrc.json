@@ -1,0 +1,3 @@
+{
+  "extends": "@doro-ui/eslint-config"
+}
